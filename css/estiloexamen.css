@@ -1,0 +1,50 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    color: green;
+}
+
+.texto{
+    color: red;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#menu{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+table, th, td{
+    border: 2px solid
+}
+
+#alineado{
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
+.amarillo {
+    background-color: yellow;
+}
+.marrón {
+    background-color: #d3a15f;
+}
